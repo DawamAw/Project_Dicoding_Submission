@@ -12,3 +12,5 @@
    b. Buka terminal baru kemudian jalankan perintah `cd dashboard`.  
    c. Install semua library dengan menggunakan perintah `pip install nama_library`. Silakan lihat library yang dibutuhkan pada file `requirements.txt`.  
    d. Setelah itu, ketik perintah `streamlit run dashboard.py`.  
+# Submission
+# Submission
